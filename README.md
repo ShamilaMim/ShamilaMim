@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shamila Sharmin Mim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Shamila Sharmin Mim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh. I love building aesthetic and responsive websites. </h3>  
+💻 Skilled in: **HTML**, **CSS**, **JavaScript**, and **Three.js**
+
+🔭 Currently exploring creative UI/UX designs, Three.js, and WebGL magic.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilamim&label=Profile%20views&color=0e75b6&style=flat" alt="shamilamim" /> </p>
 
