@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shamila Sharmin Mim</h1>
-<h3 align="center">I am a frontend developer from Bangladesh. I love building aesthetic and responsive websites and have always been passionate about visualizing concepts. </h3>
+<h3 align="center">I am a frontend developer from Bangladesh. I love building aesthetic and responsive websites and have always been passionate about visualizing concepts.</h3>
 
 ---
 
@@ -14,7 +14,7 @@ Skilled in: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, and Three.js
 
 ---
 
-### 🛠️ Frontend Tools & Software  
+### 🛠️ Frontend Tools  
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -38,6 +38,22 @@ Skilled in: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, and Three.js
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 🧩 Software Skills  
+<p align="left">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.canva.com/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" alt="Canva" width="40" height="40" />
+</a>
+</p>
+
 
 ---
 
