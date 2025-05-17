@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shamila Sharmin Mim</h1>
-<h3 align="center">I am a frontend developer from Bangladesh. I love building aesthetic and responsive websites and have always been passionate about visualizing concepts.</h3>
+<p align="center">I am a frontend developer from Bangladesh. I love building aesthetic and responsive websites and have always been passionate about visualizing concepts.</p>
 
 ---
 
