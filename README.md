@@ -1,14 +1,67 @@
 <h1 align="center">Hi, I'm Shamila Sharmin Mim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. I love building aesthetic and responsive websites. </h3>  
-💻 Skilled in: **HTML**, **CSS**, **JavaScript**, and **Three.js**
+<h3 align="center">I am a frontend developer from Bangladesh. I love building aesthetic and responsive websites and have always been passionate about visualizing concepts. </h3>
 
-🔭 Currently exploring creative UI/UX designs, Three.js, and WebGL magic.
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilamim&label=Profile%20views&color=0e75b6&style=flat" alt="shamilamim" /> </p>
+### 💻 Skills  
+Skilled in: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, and Three.js  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<h3> FRONTEND DEVELOPING TOOLS </h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <h3> SOFTWARE SKILL </h3> <a href="https://www.photoshop.com/en" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <h3> PROGRAMMING </h3> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🎓 Education  
+- 🎓 **B.Sc. in Computer Science & Engineering**  
+  Port City International University, Chittagong, Bangladesh  
+
+---
+
+### 🛠️ Frontend Tools & Software  
+<p align="left">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Programming Languages  
+- JavaScript  
+- Python  
+
+---
+
+### 🌱 Currently Learning  
+- Three.js & WebGL  
+- UI/UX design with Figma  
+- Problem-solving in JavaScript  
+- Python scripting  
+
+---
+
+### 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamilamim&show_icons=true&theme=radical" alt="shamilamim's GitHub stats" />
+</p>
+
+---
+
+### 📫 Contact Me  
+- 📧 Email: shamilacse12@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shamilamim/)
