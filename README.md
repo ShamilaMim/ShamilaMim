@@ -26,7 +26,7 @@ Skilled in: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, and Three.js
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://threejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js" width="40" height="40"/>
+    <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="Three.js" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
@@ -47,7 +47,7 @@ Skilled in: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, and Three.js
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.canva.com/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s" alt="Canva" width="40" height="40" />
